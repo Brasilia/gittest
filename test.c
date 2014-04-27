@@ -1,11 +1,14 @@
 #include <stdio.h>
 int main(){
-	printf("Oi");
-
-	printf ("eu mexi aqui!");
-	//foi o print do Gilzoide
 	
-	//novo comentario
+	while(1) {
+    
+             printf("Oi");
+
+	         printf ("eu mexi aqui!");
+	        //foi o print do Gilzoide
+	
+    }
 
 	return 0;
 }
